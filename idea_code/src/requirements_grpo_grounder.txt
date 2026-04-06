@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.4.0
+torchvision==0.19.0
+
+transformers==4.45.2
+peft==0.14.0
+accelerate==1.2.1
+deepspeed==0.15.4
+
+qwen-vl-utils==0.0.14
+decord==0.6.0
+av==17.0.0
+opencv-python==4.11.0.86
+scikit-image==0.25.0
+
+gradio==5.23.1
+fastapi==0.135.1
+uvicorn==0.41.0
+spaces==0.34.0
