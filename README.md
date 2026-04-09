@@ -6,4 +6,10 @@
 
 **MAOmni** is a novel self-correcting multi-agent omni-modal framework endowed with deliberative reasoning capabilities. MAOmni decomposes the reasoning process through a dynamic cognitive workflow orchestrated by five specialized agents, a generative Retriever for global context distillation, an adaptive AKD Router Agent for dynamic reasoning routing, a GRPO Grounder for precise continuous-time spatio-temporal localization, Reasoning Agent for explicit structured logical inference, and a TTA Reviser for test-time adaptive self-correction via ephemeral LoRA tuning.
 
-<p align="center"><img width="750" src="assets/Method.pdf"></p>
+<p align="center"><img width="750" src="assets/method.pdf"></p>
+
+## 🔥 News
+🚀 MAOmni is ready on [Hugging Face Spaces](https://huggingface.co/Harry-1234/MAOmni). Check it out!
+⭐️ Code, model release.
+
+## 🏆 MAOmni on Public Benchmarks
