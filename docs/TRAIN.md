@@ -58,7 +58,7 @@ MAOmni
 The training data used for each role is listed as follows. All the data, including the raw videos, compressed videos, and annotations, could be downloaded on [Hugging Face]
 
 ### AKD Router Agent
-We select 755 samples from [Hugging Face](https://huggingface.co/datasets/PhilipC/IntentTrain/tree/main), selected samples can be seen in data_config (src/open-r1-multimodal/data_config)
+We select 755 samples from [Hugging Face](https://huggingface.co/datasets/PhilipC/IntentTrain/tree/main), selected samples can be seen in [data_config](/src/open-r1-multimodal/data_config).
 
 ### GRPO Grounder Agent
 
