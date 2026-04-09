@@ -31,7 +31,7 @@ pip install -r src/requirements_grpo_grounder.txt
 1. Initialize conda environment for main.
 
 ```shell
-conda create -n maomni_main python=3.11 -y
+conda create -n maomni_main python=3.10 -y
 conda activate maomni_main
 ```
 
@@ -62,4 +62,20 @@ The training data used for each role is listed as follows. All the data, includi
 We select 755 samples from [IntentTrain](https://huggingface.co/datasets/PhilipC/IntentTrain/tree/main), selected samples can be seen in [data_config](/src/open-r1-multimodal/data_config).
 
 ### GRPO Grounder Agent
-qvhighlights, didemo, internvid_vtime, queryd, tacos
+GRPO Grounder use training datasets from qvhighlights, didemo, internvid_vtime, queryd, tacos, which can be downloaded from [VideoMind-Dataset](https://huggingface.co/datasets/yeliudev/VideoMind-Dataset)
+
+## 🕹️ Start Training
+Use the following commands to train MAOmni. We recommand using **NVIDIA H100 (80G) GPUs**.
+```shell
+# Pretrain GRPO Grounder Agent (7B)
+# use environment grpo_grounder
+bash src/train_grpo_grounder/grpo/train_grpo_grounder_7b.sh
+
+# Pretrain AKD Router (7B)
+# use environment maomni_main
+bash src/open-r1-multimodal/train_planner/train_planner.sh
+```
+
+
+
+
