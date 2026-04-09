@@ -9,8 +9,8 @@
 <p align="center"><img width="100%" height="100%" src="assets/method.png"></p>
 
 ## 🔥 News
-🚀 MAOmni is ready on [Hugging Face Spaces](https://huggingface.co/Harry-1234/MAOmni). Check it out!
-⭐️ Code, model release.
+- 🚀 MAOmni is ready on [Hugging Face Spaces](https://huggingface.co/Harry-1234/MAOmni). Check it out!
+- ⭐️ Code, model release.
 
 ## 🏆 MAOmni on Public Benchmarks
 <p align="center">
@@ -24,3 +24,9 @@
 <p align="center">
     <img src="assets/intentbench.png" width="100%" height="100%">
 </p>
+
+## 🕹️ Demo
+
+## 🚀 Training
+
+## 🔮 Evaluation
