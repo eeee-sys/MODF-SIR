@@ -59,7 +59,7 @@ The training data used for each role is listed as follows. All the data, includi
 
 ### AKD Router Agent
 
-We select 755 samples from [IntentTrain](https://huggingface.co/datasets/PhilipC/IntentTrain/tree/main), selected samples can be seen in [data_config](/src/open-r1-multimodal/data_config).
+Training data for the AKD Router Agent can be seen on [IntentRouterTrain](https://huggingface.co/datasets/Harry-1234/IntentRouterTrain).
 
 ### GRPO Grounder Agent
 GRPO Grounder use training datasets from qvhighlights, didemo, internvid_vtime, queryd, tacos, which can be downloaded from [VideoMind-Dataset](https://huggingface.co/datasets/yeliudev/VideoMind-Dataset)
