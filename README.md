@@ -31,7 +31,12 @@
 
 ## 🕹️ Demo
 
-Online demo is ready [Hugging Face Space](https://huggingface.co/spaces/Harry-1234/MAOmni). Play with it
+Online demo is ready [Hugging Face Space](https://huggingface.co/spaces/Harry-1234/MAOmni). Play with it!
+
+
+https://github.com/user-attachments/assets/60cf2207-d49f-4bea-8713-83d36e9e7c39
+
+
 
 ## 🚀 Training
 Our codebase supports training and evaluating on [10 video datasets and benchmarks] with the following features.
