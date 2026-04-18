@@ -11,12 +11,12 @@
 <p align="center"><img width="100%" height="100%" src="assets/method.png"></p>
 
 ## 🔥 News
-- 🚀 MAOmni is ready on [Hugging Face Model](https://huggingface.co/Harry-1234/MAOmni). Check it out!
+- 🚀 MODF-SIR is ready on [Hugging Face Model](https://huggingface.co/Harry-1234/MAOmni). Check it out!
 - 📦 Training Data is ready on [Hugging Face Dataset](https://huggingface.co/datasets/Harry-1234/IntentRouterTrain/). Start it!
 - 🕹️ Online demo is ready [Hugging Face Space](https://huggingface.co/spaces/Harry-1234/MAOmni). Play with it!
 - ⭐️ Code, model, dataset and online demo release.
 
-## 🏆 MAOmni on Public Benchmarks
+## 🏆 MODF-SIR on Public Benchmarks
 <p align="center">
     <img src="assets/dailyomni.png" width="100%" height="100%">
 </p>
