@@ -1,7 +1,7 @@
 <h2 align="center">MODF-SIR: a Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning</h2>
 
 <p align="center">
-  <a href="https://huggingface.co/Harry-1234/MAOmni" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a>
+  <a href="https://huggingface.co/Harry-1234/MODF-SIR" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a>
   <a href="https://huggingface.co/datasets/Harry-1234/IntentRouterTrain/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange"></a>
   <a href="https://huggingface.co/spaces/Harry-1234/MAOmni" target="_blank"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg"></a>
 </p>
@@ -11,7 +11,7 @@
 <p align="center"><img width="100%" height="100%" src="assets/method.png"></p>
 
 ## 🔥 News
-- 🚀 MODF-SIR is ready on [Hugging Face Model](https://huggingface.co/Harry-1234/MAOmni). Check it out!
+- 🚀 MODF-SIR is ready on [Hugging Face Model](https://huggingface.co/Harry-1234/MODF-SIR). Check it out!
 - 📦 Training Data is ready on [Hugging Face Dataset](https://huggingface.co/datasets/Harry-1234/IntentRouterTrain/). Start it!
 - 🕹️ Online demo is ready [Hugging Face Space](https://huggingface.co/spaces/Harry-1234/MAOmni). Play with it!
 - ⭐️ Code, model, dataset and online demo release.
