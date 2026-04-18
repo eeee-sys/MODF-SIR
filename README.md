@@ -9,6 +9,9 @@
 **MODF-SIR** is a lightweight MLLM-based, distillation-augmented, multi-agent collaborative framework for social intelligence reasoning.
 
 <p align="center"><img width="100%" height="100%" src="assets/method.png"></p>
+## 👀 MODF-SIR Overview
+Social intelligence reasoning, which involves decoding implicit human intentions and emotional dynamics, remains a significant challenge for Multimodal Large Language Models (MLLMs). When processing unconstrained omni-modal data streams, traditional flat reasoning paradigms often suffer from cognitive overload and hallucination cascades. To overcome these limitations, we propose MODF-SIR. Inspired by the cognitive ``Dual-Process Theory'', MODF-SIR replaces black-box inference with a collaborative multi-agent architecture. Initially, an Endogenous Long-Tail Retriever Agent extracts subtle, long-tail multimodal cues and textualizes them to prevent critical signals from being overshadowed. Guided by these cues, an Asymmetric Knowledge Distilled Router Agent dynamically assigns the reasoning pathway. For complex implicit queries, a GRPO Grounder Agent performs precise spatiotemporal localization. Subsequently, an Omni-Modal Long-Tail Reasoner Agent executes extended Chain-of-Thought (CoT) reasoning. To address the generation-evaluation gap, a Test-Time Adaptation Reviser Agent iteratively refines the reasoning outputs via closed-loop evaluation and dynamic LoRA updates. Extensive experiments demonstrate that MODF-SIR achieves state-of-the-art results across three benchmarks: Daily-Omni, IntentBench, and WorldSense. Notably, our framework significantly surpasses existing open-source video-audio MLLMs and approaches the performance of proprietary models like GPT-4o and Gemini, highlighting its efficacy in human intent modeling.
+
 
 ## 🔥 News
 - 🚀 MODF-SIR is ready on [Hugging Face Model](https://huggingface.co/Harry-1234/MODF-SIR). Check it out!
