@@ -1,4 +1,4 @@
-<h2 align="center">MODF-SIR: a Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning</h2>
+<h2 align="center">MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning</h2>
 
 <p align="center">
   <a href="https://huggingface.co/Harry-1234/MODF-SIR" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a>
